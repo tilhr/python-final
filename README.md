@@ -18,9 +18,6 @@
     <a href="https://github.com/tilhr/python-final"><strong>View on my website »</strong></a>
     <br />
     <br />
-    <a href="https://tylerrodgers.space/python-final">Download</a>
-    ·
-    <a href="https://github.com/tilhr/python-final/issues">Report bug</a>
   </p>
 </div>
 
