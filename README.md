@@ -78,7 +78,7 @@ Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/py
 
 ### Built With Python
 
-* [Python](https://www.python.org/)
+* [Python 3.10.1](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
