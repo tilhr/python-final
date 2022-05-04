@@ -95,10 +95,6 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -180,4 +176,4 @@ Resources I found helpful and would like to give credit to:
 [license-url]: https://github.com/tilhr/python-final/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tilhr
-[product-screenshot]: screenshot.png.png
+[product-screenshot]: screenshot.png
