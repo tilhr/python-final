@@ -29,19 +29,18 @@
     <li>
       <a href="#crypto-converter">Crypto Converter</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with-python">Built With Python</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#download">Download</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#road/map">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributions">Contributions</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#author">Author</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -53,9 +52,9 @@
 <!-- Crypto Converter -->
 ## Crypto Converter
 
-[![Crypto Converter][product-screenshot]](https://tylerrodgers.space)
+[![Crypto Converter Demo][product-screenshot]](https://tylerrodgers.space)
 
-This is my final project for CMSI 101. Crypto Converter is a python program which converts the user's entered value between two currencies. The user interacting with the program has the option to select different crypto currencies to convert to or even multiple currencies at once.
+Crypto Converter is my final project for CMSI 101. Crypto Converter is a python program which converts the user's entered value between two currencies. The user interacting with the program has the option to select different crypto currencies to convert to or even multiple currencies at once.
 
 How does it work?
 * Crypto Converter accesses a real time currency database which is used all over the world
@@ -70,7 +69,7 @@ I added a Git `LISCENSE` ! xD
 
 
 
-### Built With
+### Built With Python
 
 * [Python](https://www.python.org/)
 
@@ -83,14 +82,8 @@ I added a Git `LISCENSE` ! xD
 
 Crypto Converter is available for dowload from this public repository and also my website.
 
-### Prerequisites
 
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
+### Download
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
@@ -117,7 +110,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Crypto Converter can be used to convert crypto currencies in real-time.
 
-_To download, please visit [My Portfolio](https://tylerrodgers.space)_
+_For a secure download, please visit my [portfolio](https://tylerrodgers.space)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -142,8 +135,8 @@ See the [open issues](https://github.com/tilhr/python-final/issues) for a full l
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- CONTRIBUTIONS-->
+## Contributions
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -169,21 +162,21 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- Author -->
-## Author
+<!-- Project Author -->
+## Project Author
 
-Tyler Rodgers - [@tilhr_](https://twitter.com/tilhr_) - ping@tylerrodgers.space
+Tyler Rodgers - [@tilhr](https://twitter.com/tilhr) - ping@tylerrodgers.space
 
-Project Link: [https://github.com/tilhr/](https://github.com/tilhr/python-final)
+Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/python-final)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments <3
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Resources I found helpful and would like to give credit to:
 
 * [Open Source License](https://github.com/tilhr/python-final/blob/master/LICENSE)
 * [Python Textbook](https://www.webpagefx.com/tools/emoji-cheat-sheet)
