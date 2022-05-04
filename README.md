@@ -41,7 +41,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#road/map">Roadmap</a></li>
     <li><a href="#contributions">Contributions</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#mit-license">MIT License</a></li>
     <li><a href="#author">Author</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -63,7 +63,7 @@ How does it work?
 
 The goal of this project is to find a practical application for new python scripts which would be used in m day-to-day life. The Crypto Converter satisfies these requirements while also meeting the project requirements for my CMSI 101 course. I plan on implimenting real-time gas fee calculations for ethereum later on. This will be useful for tracking transactions on OpenSea and estimating the costs. Another future edition could be a Discord bot which handles this python script in chat and allow users to interact witht the crypto converter in permitted channels. Thanks to all of the people who generously answered my questions and provided devices for me test this project!
 
-I added a Git `LISCENSE` ! xD
+I added a Git `LICENSE` ! xD
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -153,8 +153,8 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
+<!-- MIT LICENSE -->
+## MIT License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
