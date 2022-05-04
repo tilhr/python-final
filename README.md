@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][website-shield]][linkedIn-url]
 
 
 <!-- PROJECT LOGO -->
