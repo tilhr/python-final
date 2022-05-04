@@ -41,7 +41,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#project-roadmap">Project Roadmap</a></li>
     <li><a href="#mit-license">MIT License</a></li>
-    <li><a href="#author">Author</a></li>
+    <li><a href="#sole-author">Sole Author</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -138,8 +138,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- Project Author -->
-## Project Author
+<!-- Sole Author -->
+## Sole Author
 
 Tyler Rodgers - [@tilhr](https://twitter.com/tilhr) - ping@tylerrodgers.space
 
