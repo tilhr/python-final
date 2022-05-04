@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://tylerrodgers.space/python-final">
-    <img src="icon.png" alt="Logo" width="80"> 
+    <img src="logo.png" alt="Logo" width="80"> 
   </a>
 
   <h3 align="center">Crypto Converter - by Tyler Rodgers</h3>
