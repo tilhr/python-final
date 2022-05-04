@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://tylerrodgers.space/python-final">
+  <a href="https://tilhr.tech/crypto-converter">
     <img src="logo.png" alt="Logo" width="80"> 
   </a>
 
@@ -15,7 +15,7 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/tilhr/python-final"><strong>View on my website »</strong></a>
+    <a href="https://tilhr.tech/crypto-converter"><strong>View on my website »</strong></a>
     <br />
     <br />
   </p>
@@ -51,7 +51,7 @@
 <!-- Crypto Converter -->
 ## Crypto Converter
 
-[![Crypto Converter Demo][product-screenshot]](https://tylerrodgers.space)
+[![Crypto Converter Demo][product-screenshot]](https://tilhr.tech/crypto-converter)
 
 Crypto Converter is my final project for CMSI 101. Crypto Converter is a python program which converts the user's entered value between two currencies. The user interacting with the program has the option to select different crypto currencies to convert to or even multiple currencies at once.
 
@@ -112,7 +112,7 @@ _Crypto Converter doesn't rely on any external dependencies or services._
 
 Crypto Converter can be used to convert crypto currencies in real-time.
 
-_Secure download available, please visit [My Portfolio](https://tylerrodgers.space)_
+_Secure download available, please visit [My Website](https://tilhr.tech/crypto-converter)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
