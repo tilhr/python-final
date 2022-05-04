@@ -11,7 +11,7 @@
   </a>
 
   <h3 align="center">Crypto Converter - by Tyler Rodgers</h3>
-  <h4 align="center">Final Project for CMSI 101</h4>
+  <h4 align="center">CMSI 101 Final Project</h4>
 
   <p align="center">
     <br />
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 A few resources I found helpful and would like to give credit to:
 
 * [Open Source License](https://github.com/tilhr/python-final/blob/master/LICENSE)
-* [Python Textbook](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Python Textbook](https://www.amazon.com/dp/1449355730?tag=hackr-20&geniuslink=true)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
