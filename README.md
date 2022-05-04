@@ -39,7 +39,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#road/map">Roadmap</a></li>
+    <li><a href="#project-roadmap">Project Roadmap</a></li>
     <li><a href="#mit-license">MIT License</a></li>
     <li><a href="#author">Author</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -110,8 +110,8 @@ _Secure download available, please visit my [Portfolio](https://tylerrodgers.spa
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Project ROADMAP -->
+## Project Roadmap
 
 - [x] Create project files
 - [x] Get access to real-time currency database
