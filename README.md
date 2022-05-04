@@ -154,7 +154,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 A few resources I found helpful and would like to give credit to:
 
 * [Open Source License](https://github.com/tilhr/python-final/blob/master/LICENSE)
-* [Python Textbook](https://www.amazon.com/dp/1449355730?tag=hackr-20&geniuslink=true)
+* [My Python Textbook](https://www.amazon.com/dp/1449355730?tag=hackr-20&geniuslink=true)
+* [Currency Converter](https://data-flair.training/blogs/currency-converter-python/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
