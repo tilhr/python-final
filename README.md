@@ -69,7 +69,7 @@ The goal of this project is to find a practical application for new python scrip
 
 ## Author
 
-Tyler Rodgers - [ping@tylerrodgers.space
+Tyler Rodgers - ping@tylerrodgers.space
 
 Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/python-final)
 
