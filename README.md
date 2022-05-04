@@ -29,6 +29,7 @@
     <li>
       <a href="#crypto-converter">Crypto Converter</a>
       <ul>
+        <li><a href="#author">Author</a></li>
         <li><a href="#built-with-python">Built With Python</a></li>
       </ul>
     </li>
@@ -41,7 +42,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#project-roadmap">Project Roadmap</a></li>
     <li><a href="#mit-license">MIT License</a></li>
-    <li><a href="#author">Author</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -66,6 +66,14 @@ The goal of this project is to find a practical application for new python scrip
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
+## Author
+
+Tyler Rodgers - [@tilhr](https://twitter.com/tilhr) - ping@tylerrodgers.space
+
+Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/python-final)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ### Built With Python
@@ -133,17 +141,6 @@ See [open issues](https://github.com/tilhr/python-final/issues) for a list of pr
 ## MIT License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- Author -->
-## Author
-
-Tyler Rodgers - [@tilhr](https://twitter.com/tilhr) - ping@tylerrodgers.space
-
-Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/python-final)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
