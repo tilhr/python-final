@@ -71,9 +71,9 @@ The goal of this project is to find a practical application for new python scrip
 
 Tyler Rodgers - ping@tylerrodgers.space
 
-Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/python-final)
+Source Code: [github.com/tilhr/python-final](https://github.com/tilhr/python-final)
 
-Demo: [https://tilhr.tech/crypto-converter](https://tilhr.tech/crypto-converter)
+Demo: [tilhr.tech/crypto-converter](https://tilhr.tech/crypto-converter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
