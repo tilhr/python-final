@@ -84,7 +84,7 @@ Crypto Converter is available for dowload from this public repository and also m
 
 ### Download
 
-_This template doesn't rely on any external dependencies or services._
+_Crypto Converter doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
@@ -104,7 +104,7 @@ _This template doesn't rely on any external dependencies or services._
 
 Crypto Converter can be used to convert crypto currencies in real-time.
 
-_For a secure download, please visit my [portfolio](https://tylerrodgers.space)_
+_Secure download available, please visit my [portfolio](https://tylerrodgers.space)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,7 +123,7 @@ _For a secure download, please visit my [portfolio](https://tylerrodgers.space)_
 - [ ] Add layer 2 crypto currencies
 - [ ] Impliment real-time gas fee calculation
 
-See the [open issues](https://github.com/tilhr/python-final/issues) for a full list of proposed features (and known issues).
+See [open issues](https://github.com/tilhr/python-final/issues) for a list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -152,7 +152,7 @@ Source Code: [https://github.com/tilhr/python-final](https://github.com/tilhr/py
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments <3
 
-Resources I found helpful and would like to give credit to:
+A few resources I found helpful and would like to give credit to:
 
 * [Open Source License](https://github.com/tilhr/python-final/blob/master/LICENSE)
 * [Python Textbook](https://www.webpagefx.com/tools/emoji-cheat-sheet)
