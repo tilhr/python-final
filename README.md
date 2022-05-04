@@ -62,7 +62,7 @@ How does it work?
 
 The goal of this project is to find a practical application for new python scripts which would be used in m day-to-day life. The Crypto Converter satisfies these requirements while also meeting the project requirements for my CMSI 101 course. I plan on implimenting real-time gas fee calculations for ethereum later on. This will be useful for tracking transactions on OpenSea and estimating the costs. Another future edition could be a Discord bot which handles this python script in chat and allow users to interact witht the crypto converter in permitted channels. Thanks to all of the people who generously answered my questions and provided devices for me test this project!
 
-`DOWNLOAD` from my Website! xD
+`PREVIEW ON WEBSITE` xD
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
