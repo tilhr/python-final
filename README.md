@@ -114,7 +114,7 @@ _Crypto Converter doesn't rely on any external dependencies or services._
 
 Crypto Converter can be used to convert crypto currencies in real-time.
 
-_Secure download available, please visit [My Website](https://tilhr.tech/crypto-converter)_
+_Secure download available, please visit [tilhr.tech/crypto-converter](https://tilhr.tech/crypto-converter)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
