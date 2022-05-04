@@ -73,7 +73,7 @@ Tyler Rodgers - ping@tylerrodgers.space
 
 Source Code: [github.com/tilhr/python-final](https://github.com/tilhr/python-final)
 
-Demo: [tilhr.tech/crypto-converter](https://tilhr.tech/crypto-converter)
+Live Demo: [tilhr.tech/crypto-converter](https://tilhr.tech/crypto-converter)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
