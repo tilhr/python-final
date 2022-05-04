@@ -172,4 +172,4 @@ A few resources I found helpful and would like to give credit to:
 [license-url]: https://github.com/tilhr/python-final/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tilhr
-[product-screenshot]: screenshot.png
+[product-screenshot]: preview.png
