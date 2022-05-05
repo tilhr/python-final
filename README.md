@@ -156,6 +156,7 @@ A few resources I found helpful and would like to give credit to:
 * [Open Source License](https://github.com/tilhr/python-final/blob/master/LICENSE)
 * [My Python Textbook](https://www.amazon.com/dp/1449355730?tag=hackr-20&geniuslink=true)
 * [Data Flair Training](https://data-flair.training/blogs/currency-converter-python/)
+* [Website Button](https://stackoverflow.com/questions/11620698/how-to-trigger-a-file-download-when-clicking-an-html-button-or-javascript)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
